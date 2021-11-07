@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    height: 100vh;
+    width: 100%;
+    background: url(bkg3.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+
+.container .btn{
+    margin-top: 10px;
+    padding-right: 5%;
+    padding-left: 5%;
+    background-color: #4CAF50;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    top : 250px;
+    right : 150px;
+    position: relative;
+    left: 535px;
+}
+
+.container .centered {
+    position: relative;
+    top: 250px;
+    left: 34%;
+    right : 200px;
+    color: red;
+
+  }
